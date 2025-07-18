@@ -1,0 +1,1 @@
+// Background script to track active tab and log time
